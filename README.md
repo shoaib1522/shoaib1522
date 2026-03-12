@@ -9,9 +9,7 @@ AI Engineer | Data Scientist | Agentic AI Systems Architect
 ## About
 
 I am a **Data Science student and AI Engineer** focused on building production-grade AI systems and scalable machine learning infrastructure. My work centers around **Agentic AI architectures, Retrieval-Augmented Generation (RAG), multi-agent orchestration, and large language model applications**.
-
 I enjoy bridging the gap between **research-driven machine learning and real-world software engineering**, building intelligent systems that are reliable, scalable, and production-ready.
-
 - BSc Data Science — PUCIT (CGPA 3.8 / 4.0)  
 - IEEE FIT 2025 Research Publication  
 - Experience designing production AI systems and LLM infrastructure
