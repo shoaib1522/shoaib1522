@@ -50,22 +50,6 @@ I work across **AI systems engineering, machine learning pipelines, backend infr
 
 ---
 
-## Selected Projects
-
-**LobbyIQ**  
-AI-powered legislative workspace using retrieval-augmented generation to automate legal drafting and bill analysis.
-
-**XploitEye**  
-Autonomous multi-agent cybersecurity diagnostic system using LLM orchestration and vector memory.
-
-**CodeMentor AI**  
-Real-time AI code analysis engine integrating LLM reasoning directly into development workflows.
-
-**CricketVision**  
-Computer vision system using YOLOv5 and Kalman filters to analyze cricket ball trajectories.
-
----
-
 ## Connect
 
 Portfolio  
