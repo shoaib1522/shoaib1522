@@ -1,153 +1,100 @@
-<h1 align="center">Hi there, I'm Muhammad Shoaib Ahmad 👋</h1>
+<h2 align="center">Muhammad Shoaib Ahmad</h2>
 
-<h3 align="center">
+<p align="center">
 AI Engineer | Data Scientist | Agentic AI Systems Architect
-</h3>
-
-<p align="center">
-Building intelligent AI systems, scalable ML infrastructure, and autonomous multi-agent architectures.
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-I’m a **Data Science student and AI Engineer** passionate about building **production-grade AI systems and intelligent software infrastructure**.
+I am a **Data Science student and AI Engineer** focused on building production-grade AI systems and scalable machine learning infrastructure.
 
-My work focuses on **Agentic AI, Generative AI systems, scalable RAG pipelines, and autonomous multi-agent architectures**. I enjoy bridging the gap between **deep learning research and real-world software engineering**, creating AI systems that are **efficient, scalable, and impactful**.
+My work centers around **Agentic AI architectures, Retrieval-Augmented Generation (RAG), multi-agent orchestration, and LLM-based applications**. I enjoy bridging the gap between **research-grade machine learning and real-world software systems**, building solutions that are reliable, scalable, and impactful.
 
-🎓 **BSc Data Science – PUCIT** (CGPA **3.8 / 4.0**)  
-🔬 **IEEE Published Researcher – FIT 2025**  
-🤖 Building **Agentic AI Systems & Multi-Agent Architectures**  
-⚡ Designing **high-performance LLM infrastructure and RAG pipelines**
-
----
-
-# 🧠 AI / Machine Learning Stack
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-ee4c2c?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?style=for-the-badge&logo=tensorflow)
-![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge&logo=huggingface)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-ML-orange?style=for-the-badge&logo=scikitlearn)
-![XGBoost](https://img.shields.io/badge/XGBoost-ML-red?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green?style=for-the-badge&logo=opencv)
-![YOLO](https://img.shields.io/badge/YOLO-ObjectDetection-blue?style=for-the-badge)
+- BSc Data Science — PUCIT (CGPA 3.8 / 4.0)  
+- IEEE FIT 2025 Research Publication  
+- Experience building production LLM systems and AI infrastructure
 
 ---
 
-# 🤖 Generative AI / LLM Engineering
+## AI & Machine Learning
 
-![LangChain](https://img.shields.io/badge/LangChain-LLM_Framework-green?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Orchestration-purple?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-Multi_Agent-red?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-blue?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Architecture-orange?style=for-the-badge)
-![LoRA](https://img.shields.io/badge/LoRA-LLM_Finetuning-yellow?style=for-the-badge)
-![QLoRA](https://img.shields.io/badge/QLoRA-LLM_Optimization-purple?style=for-the-badge)
-
----
-
-# 📊 Data Engineering & Databases
-
-![Apache Spark](https://img.shields.io/badge/Spark-BigData-orange?style=for-the-badge&logo=apachespark)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-Caching-red?style=for-the-badge&logo=redis)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorDB-purple?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-Vector_Search-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-yellow?logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-red)
 
 ---
 
-# ⚙️ Software Engineering
+## Generative AI & LLM Systems
 
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/NodeJS-Backend-green?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-Frontend-61dafb?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-JS_Typed-blue?style=for-the-badge&logo=typescript)
-![REST API](https://img.shields.io/badge/REST_API-Backend-orange?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-blue?style=for-the-badge)
-
----
-
-# ☁️ DevOps / Cloud
-
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=for-the-badge&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?style=for-the-badge&logo=githubactions)
-![Linux](https://img.shields.io/badge/Linux-System-black?style=for-the-badge&logo=linux)
+![LangChain](https://img.shields.io/badge/LangChain-black)
+![LangGraph](https://img.shields.io/badge/LangGraph-black)
+![CrewAI](https://img.shields.io/badge/CrewAI-black)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black)
+![RAG](https://img.shields.io/badge/RAG-black)
+![LoRA](https://img.shields.io/badge/LoRA-black)
+![QLoRA](https://img.shields.io/badge/QLoRA-black)
 
 ---
 
-# 🧠 Current Focus
+## Data Engineering & Databases
 
-🤖 **Agentic AI Systems**  
-⚡ **Autonomous Multi-Agent LLM Architectures**  
-🔍 **Retrieval Augmented Generation (RAG)**  
-🧠 **LLM Infrastructure Optimization**  
-🛠 **AI Developer Tools**
-
----
-
-# 🌟 Featured Projects
-
-### 🚀 LobbyIQ
-AI-powered legislative workspace using **RAG pipelines and LLM reasoning** to automate legal drafting.
-
-### 🔐 XploitEye
-Autonomous **cybersecurity diagnostic AI system** powered by multi-agent orchestration.
-
-### 💻 CodeMentor AI
-Real-time **AI code review assistant** integrating LLM reasoning directly into developer workflows.
-
-### 🏏 CricketVision
-Computer vision system using **YOLOv5 + Kalman Filters** to track cricket ball trajectories.
+![Apache Spark](https://img.shields.io/badge/Spark-orange?logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-purple)
+![Qdrant](https://img.shields.io/badge/Qdrant-blue)
 
 ---
 
-# 🤝 I'm Looking to Collaborate On
+## Software Engineering
 
-• AI Infrastructure & LLM Systems  
-• Autonomous Agent Architectures  
-• Applied Machine Learning Projects  
-• AI SaaS Platforms  
-
----
-
-# 💬 Ask Me About
-
-- Agentic AI Systems  
-- Generative AI Architecture  
-- RAG Pipelines  
-- LLM Optimization  
-- AI System Design  
-- Production AI Deployment  
+![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-grey)
+![WebSockets](https://img.shields.io/badge/WebSockets-grey)
 
 ---
 
-# 🌐 Connect With Me
+## DevOps & Cloud
 
-<p align="center">
-
-<a href="https://muhammadshoaib.me">
-<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome">
-</a>
-
-<a href="https://linkedin.com/in/muhammad-shoaib-ahmad-40800b2a8">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:shoaibmughal1522@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://kaggle.com/muhammadshoaibahmad">
-<img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle">
-</a>
-
-</p>
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
 
 ---
 
-⭐ **Building the next generation of intelligent systems through AI research and engineering**
+## Selected Projects
+
+**LobbyIQ**  
+AI-powered legislative workspace using retrieval-augmented generation to automate legal drafting and bill analysis.
+
+**XploitEye**  
+Autonomous multi-agent cybersecurity diagnostic system using LLM orchestration and vector memory.
+
+**CodeMentor AI**  
+Real-time AI code analysis engine integrating LLM reasoning directly into development workflows.
+
+**CricketVision**  
+Computer vision system using YOLOv5 and Kalman filters to analyze cricket ball trajectories.
+
+---
+
+## Connect
+
+<a href="https://muhammadshoaib.me">Portfolio</a>  
+<a href="https://linkedin.com/in/muhammad-shoaib-ahmad-40800b2a8">LinkedIn</a>  
+<a href="mailto:shoaibmughal1522@gmail.com">Email</a>  
+<a href="https://kaggle.com/muhammadshoaibahmad">Kaggle</a>
+
+---
